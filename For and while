@@ -1,0 +1,14 @@
+print ("perulangan for and while")
+
+print("untuk for")
+
+nama_buah= ("jerok, anggut, kelapa, apel")
+for i in nama_buah:
+    print(i)
+
+print("untuk while")
+
+i = 1
+while i <=5:
+    print("samsul bahri")
+    i += 3
